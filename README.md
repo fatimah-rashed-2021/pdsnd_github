@@ -6,6 +6,7 @@ Project3 Git Commands on GitHub
 
 ### Description
 List git commands and work between local repositry and remote one
+create new branches and make some changes
 
 ### Files used
 chicago.csv
