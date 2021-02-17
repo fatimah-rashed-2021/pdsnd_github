@@ -1,14 +1,17 @@
 ### Date created
-Include the date you created this project and README file.
+17-Feb-2021.
 
 ### Project Title
-Replace the Project Title
+Project3 Git Commands on GitHub
 
 ### Description
-Describe what your project is about and what it does
+List git commands and work between local repositry and remote one
 
 ### Files used
-Include the files used
+chicago.csv
+new_york_city.csv
+washington.csv
+bikeshare.py
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
